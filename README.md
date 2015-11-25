@@ -8,3 +8,7 @@ for the Arduino.
 
 Little else need be said, but I wrote [about it](http://mjoldfield.com/atelier/2015/11/cheap-xy-display.html)
 anyway.
+
+A lightly modified version of the code is used in my 
+[Cartesian Dualism geocache.](https://www.geocaching.com/seek/cache_details.aspx?wp=GC5WKF3)
+
